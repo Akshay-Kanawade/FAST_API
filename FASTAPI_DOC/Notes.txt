@@ -1,0 +1,12 @@
+
+req : 
+
+    python 3.7 +
+    starlettes
+    pydantic
+    uvicorn
+
+Installation :
+    pip install fastapi
+    pip install uvicorn[standard]
+
