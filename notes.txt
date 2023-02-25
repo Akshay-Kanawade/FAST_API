@@ -16,3 +16,10 @@ pip install fastapi[all]
 server - pip install uvicorn[standard]
 
 
+pydantic - data validations
+
+
+
+
+requirements.txt - pip3 install -r requirements.txt
+
