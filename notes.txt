@@ -1,0 +1,18 @@
+provide swagger- /docs  doc - /redoc
+type validations.
+open api & json schema
+
+install env
+apt-get install -y python3-venv
+
+create venv
+python3 -m vene FASt_API_ENV
+
+Activate
+source Fast_API/bin/activate
+
+install fast api dependancy
+pip install fastapi[all]
+server - pip install uvicorn[standard]
+
+
